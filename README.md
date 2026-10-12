@@ -1,4 +1,4 @@
-# Windows-Security-Log-
+# Windows-Security-Log- Analyst 
 Windows Security Log Analysis
 
 1. Project Overview
